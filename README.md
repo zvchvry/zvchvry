@@ -12,7 +12,7 @@ making things for the web — personal sites, small tools, and experiments aroun
 
 ### in the toolbox
 
-JavaScript · TypeScript · CSS · Solidity
+JavaScript · TypeScript · CSS 
 
 ---
 
