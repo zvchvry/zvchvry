@@ -1,4 +1,4 @@
-# hey, i'm zach
+# i'm zach
 
 making things for the web — personal sites, small tools, and experiments around art, games, and internet communities.
 
