@@ -1,16 +1,19 @@
-## Hi there 👋
+# hey, i'm zach
 
-<!--
-**zvchvry/zvchvry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+making things for the web — personal sites, small tools, and experiments around art, games, and internet communities.
 
-Here are some ideas to get you started:
+[maranasati.com](https://www.maranasati.com/) · [x / @zvvvch](https://x.com/zvvvch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### things i've built
+
+- **[maraṇasati](https://www.maranasati.com/)** — my personal corner of the internet. a desktop full of art, notes, emojis, and little distractions.
+- **[dead.works](https://dead.works)** — a collection of Ghouls projects and derivatives. [source ↗](https://github.com/zvchvry/dead-works)
+- **[CS2 price checker](https://github.com/zvchvry/CS2-Discord-Price-Checker)** — a Discord bot for checking Taste Bud sticker prices on Steam, with daily reports.
+
+### in the toolbox
+
+JavaScript · TypeScript · CSS · Solidity
+
+---
+
+small projects, ongoing experiments.
